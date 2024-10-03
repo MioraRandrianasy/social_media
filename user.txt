@@ -1,0 +1,2 @@
+-> ('Miora', 'miora@gmail.com', MD5('miora1234')),<br>
+-> ('Randria', 'randria@gmail.com', MD5('randria1234')),<br>
